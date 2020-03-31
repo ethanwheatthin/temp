@@ -43,7 +43,7 @@ if __name__ == "__main__":
     })
 
     #os.chdir(save_path)
-    counter = 0
+    counter = 1732
 
     for line in dance_links:
 
